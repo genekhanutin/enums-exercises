@@ -5,7 +5,7 @@ require 'minitest/pride'
 class BasicEnumsTest < Minitest::Test
   def test_solve_for_x
     s = ''
-    5.times do
+    5.times do 
       # write code here
     end
     assert_equal 'xxxxx', s
